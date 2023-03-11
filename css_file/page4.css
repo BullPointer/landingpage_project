@@ -13,9 +13,13 @@
     width: 50pc;
 }
 .quote1 {
-    font-size: xx-large;
+    color: rgb(80, 78, 78);
+    font-size: 28px;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .quote2{
+    color: rgb(43, 40, 40);
     font-size: 23px;
     text-align: right;
 }
