@@ -1,0 +1,10 @@
+
+.page2 {
+    background: rgb(249, 249, 252);
+    text-align: center;
+}
+.page2 .title {
+    padding: 40px;
+    font-weight: 700;
+    font-size: 35px;
+}

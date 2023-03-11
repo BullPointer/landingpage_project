@@ -1,0 +1,40 @@
+
+.page1 {
+    background: #1F2937;
+    height: 418px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.page1 .test {
+    width: 25pc;
+}
+.page1 .test .title {
+    font-size: 50px;
+    font-weight: 700;
+    color: #ecf0f7;
+}
+.page1 .test .info {
+    font-size: 20px;
+    font-weight: 500;
+    color: #d9dadb;
+}
+.page1 .test .info div {
+    margin-top: 1pc;
+}
+.page1 .test .info .btn {
+    font-size: 17px;
+    font-weight: bold;
+    color: #E5E7EB;
+    background: #3882F6;
+    border-radius: 10%;
+    height: 40px;
+    width: 8pc;
+}
+
+
+.page1 .img {
+    width: 25pc;
+    background: pink;
+}

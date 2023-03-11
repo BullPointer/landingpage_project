@@ -1,0 +1,21 @@
+
+.page4 {
+    height: 25pc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #E5E7EB;
+}
+
+.quote {
+    padding: 8px;
+    width: 50pc;
+}
+.quote1 {
+    font-size: xx-large;
+}
+.quote2{
+    font-size: 23px;
+    text-align: right;
+}
